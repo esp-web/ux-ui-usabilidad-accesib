@@ -1,0 +1,13 @@
+Fotografías de Pexels (licencia Pexels: uso gratuito, atribución no obligatoria)
+entrada-datos.jpg   https://www.pexels.com/photo/person-typing-on-keyboard-3201478/
+salida-datos.jpg    https://www.pexels.com/photo/computer-monitor-displaying-a-graph-5831258/  (AlphaTradeZone)
+estado-sistema.jpg  https://www.pexels.com/photo/black-cellphone-showing-icons-7662056/
+control-sistema.jpg https://www.pexels.com/photo/hands-holding-a-modern-gaming-controller-28920051/
+
+Wikimedia Commons (dominio público)
+eliza-conversacion.png https://commons.wikimedia.org/wiki/File:ELIZA_conversation.png
+escritorio.jpg https://commons.wikimedia.org/wiki/File:Writing_desk.jpg (CC BY-SA 3.0)
+contexto-uso.jpg       https://www.pexels.com/photo/close-up-photography-of-person-using-mobile-phone-1251856/
+dispositivo-acceso.jpg https://www.pexels.com/photo/vintage-desktop-computer-with-monitor-and-keyboard-37148217/ (Ruben Boekeloo)
+conexion-lenta.jpg     https://www.pexels.com/photo/crop-unrecognizable-person-with-smartphone-showing-load-logo-on-screen-3850251/
+puntero-cabeza.jpg https://accesibilidadweb.dlsi.ua.es/contenido/hardware/disp-adaptados/clear-view-headpointer.jpg
