@@ -478,9 +478,9 @@ html:not(.presentar) .s-reto .titulo { font-size: clamp(24px, 4vw, 40px); }
 html:not(.presentar) .galeria:has(> figure:only-child) { --n: 1 !important; }
 
 /* Preguntas para la clase: color complementario (naranja, matiz opuesto al azul) */
-.s-reto { --reto: #9a4400; }               /* 5,8:1 sobre papel */
+.s-reto { --reto: #c43c00; }               /* naranja saturado: 4,6:1 sobre papel, 5,3:1 con texto blanco */
 .s-reto .etq, .s-reto .titulo { color: var(--reto); }
-.s-reto .dato { background: var(--reto); color: var(--paper); }
+.s-reto .dato { background: var(--reto); color: #fff; }
 .s-reto .etq::before { content: "?"; display: inline-grid; place-items: center; width: 1.6em; height: 1.6em; margin-right: .5em; border-radius: 50%; background: var(--reto); color: var(--paper); }
 .s-reto .mk-etq { color: var(--reto); }
 html.presentar .s-reto { outline: max(3px, calc(.3 * var(--u))) solid var(--reto); outline-offset: calc(1.2 * var(--u)); border-radius: var(--r); }
